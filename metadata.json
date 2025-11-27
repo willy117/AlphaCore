@@ -1,0 +1,5 @@
+{
+  "name": "AlphaCore 資產管理系統",
+  "description": "專業級雙模組 (Hybrid) 投資管理平台。整合即時行情、AI 智能分析與模擬交易功能，支援真實 API 與模擬資料無縫切換。",
+  "requestFramePermissions": []
+}
